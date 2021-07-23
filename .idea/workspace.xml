@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a6b12bf-c26d-49fd-8eb5-027960635a79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week1/Exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/Exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/Exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week1/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/Exercise02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercise04">
+  <component name="RunManager" selected="Application.Exercise02">
     <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Exercise01" />
       <module name="java-homework" />
@@ -86,10 +85,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise04" />
         <item itemvalue="Application.Exercise02" />
-        <item itemvalue="Application.Exercise03" />
         <item itemvalue="Application.Exercise01" />
+        <item itemvalue="Application.Exercise04" />
+        <item itemvalue="Application.Exercise03" />
       </list>
     </recent_temporary>
   </component>
@@ -114,5 +113,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

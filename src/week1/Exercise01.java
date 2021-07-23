@@ -25,10 +25,9 @@ public class Exercise01 {
                 }
             }
             if(count>0){
-                System.out.println("Ban vua nhap 1 so trong mang");
-                System.out.println("So nay xuat hien "+count+ " lan");
+                System.out.printf("You have input number %d exist in array and it displays %d time", inputValue, count);
             } else {
-                System.out.println("So ban vua nhap khong co trong mang");
+                System.out.println("We don't have that number in the array");
             }
 
         }
