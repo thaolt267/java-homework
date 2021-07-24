@@ -11,8 +11,8 @@ public class Exercise02 {
         final int MAX_ARR_LENGTH = 10;
         int[] myArr = new int[MAX_ARR_LENGTH];
         Scanner scanner = new Scanner(System.in);
-        double sumArr = 0.00;
-        double average = 0.00;
+        double sumArr = 0.0;
+        double average = 0.0;
         boolean isContinuing = true;
 
         while (isContinuing) {
@@ -30,12 +30,11 @@ public class Exercise02 {
                 }
                 average = sumArr / MAX_ARR_LENGTH;
                 System.out.println("Sum of array is " + sumArr);
-                System.out.printf("Average of array = %10.2f%n",average);
+                System.out.printf("Average of array = %10.1f%n",average);
+                sumArr = 0.0;
             }
 
         }
         System.out.println("Bye Bye!");
-
-
     }
 }
