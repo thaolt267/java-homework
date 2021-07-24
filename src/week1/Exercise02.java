@@ -11,12 +11,12 @@ public class Exercise02 {
         final int MAX_ARR_LENGTH = 10;
         int[] myArr = new int[MAX_ARR_LENGTH];
         Scanner scanner = new Scanner(System.in);
-        double average = 0.00;
         double sumArr = 0.00;
+        double average = 0.00;
         boolean isContinuing = true;
 
         while (isContinuing) {
-            System.out.println("Input 0 to exit the program: ");
+            System.out.println("Please input a number, 0 to exit the program: ");
             if (scanner.nextInt() == 0) {
                 isContinuing = false;
 
