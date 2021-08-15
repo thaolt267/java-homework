@@ -21,7 +21,7 @@ public class Exercise04 {
         for (int i : myArr) {
             System.out.printf("%d ", i);
         }
-        
+
         // Bo mang cu vo mang moi theo thu tụ nguoc lai mang cu
         for (int i = 0; i < myArr.length; i++) {
             newArr[myArr.length - i - 1] = myArr[i];
